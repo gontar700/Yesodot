@@ -22,7 +22,7 @@ public class Solution {
      *
      * @param n the number of rows to print
      */
-    public static void printPattern(int n) {
+    public static void printPattern() {
         // TODO: write your code here
  
     }
