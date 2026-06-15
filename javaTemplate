@@ -1,0 +1,33 @@
+/**
+ * Name    : ___________________________
+ * Date    : ___________________________
+ * Class   : ___________________________
+ *
+ * Assignment: Print a Pattern
+ * ---------------------------
+ * Write a void procedure that prints a pattern using stars (*) or numbers.
+ * The pattern should depend on a parameter (e.g. the number of rows).
+ *
+ * Example output for n = 4:
+ *
+ *   *
+ *   * *
+ *   * * *
+ *   * * * *
+ */
+public class Solution {
+ 
+    /**
+     * Prints a pattern with the given number of rows.
+     *
+     * @param n the number of rows to print
+     */
+    public static void printPattern(int n) {
+        // TODO: write your code here
+ 
+    }
+ 
+    public static void main(String[] args) {
+        // No test required — your teacher will call printPattern() to check your work
+    }
+}
